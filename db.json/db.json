@@ -1,0 +1,1753 @@
+{
+  "meta": {},
+  "links": {},
+  "linked": {},
+  "nodes": [
+    {
+      "id": "e176d824-89c1-4b92-a5b6-d3a48be2d3d8",
+      "href": "https://api.prod.bgchprod.info/omnia/nodes/e176d824-89c1-4b92-a5b6-d3a48be2d3d8",
+      "name": "Hub",
+      "parentNodeId": "e176d824-89c1-4b92-a5b6-d3a48be2d3d8",
+      "lastSeen": 1571659378986,
+      "createdOn": 1466960143648,
+      "userId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "ownerId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "homeId": "0f586eaf-ce2b-4550-addc-d76e42627b66",
+      "attributes": {
+        "zigBeeTileFirmwareVendor": {
+          "reportedValue": "Telegesis",
+          "displayValue": "Telegesis",
+          "reportReceivedTime": 1569932246003,
+          "reportChangedTime": 1569932245656
+        },
+        "javaVersion": {
+          "reportedValue": "1.8.0_212",
+          "displayValue": "1.8.0_212",
+          "reportReceivedTime": 1569932248830,
+          "reportChangedTime": 1569932248426
+        },
+        "softwareInstallationState": {
+          "reportedValue": "IDLE",
+          "displayValue": "IDLE",
+          "reportReceivedTime": 1569932248756,
+          "reportChangedTime": 1569932248427
+        },
+        "zigBeeTileAddress": {
+          "reportedValue": "0021ED000004173B",
+          "displayValue": "0021ED000004173B",
+          "reportReceivedTime": 1569932304065,
+          "reportChangedTime": 1569932304053
+        },
+        "devicesState": {
+          "reportedValue": "UP",
+          "displayValue": "UP",
+          "reportReceivedTime": 1569932248947,
+          "reportChangedTime": 1569932248447
+        },
+        "powerSupply": {
+          "reportedValue": "AC",
+          "displayValue": "AC",
+          "reportReceivedTime": 1569932235958,
+          "reportChangedTime": 1569932198405
+        },
+        "manufacturer": {
+          "reportedValue": "AlertMe",
+          "displayValue": "AlertMe",
+          "reportReceivedTime": 1569932248983,
+          "reportChangedTime": 1569932248458
+        },
+        "protocol": {
+          "reportedValue": "ZIGBEE",
+          "displayValue": "ZIGBEE",
+          "reportReceivedTime": 1569932248863,
+          "reportChangedTime": 1569932248424
+        },
+        "bootLoaderVersion": {
+          "reportedValue": "2018.07",
+          "displayValue": "2018.07",
+          "reportReceivedTime": 1569932249935,
+          "reportChangedTime": 1569932249579
+        },
+        "zigBeePanId": {
+          "reportedValue": "C23A",
+          "displayValue": "C23A",
+          "reportReceivedTime": 1569932304898,
+          "reportChangedTime": 1569932304886
+        },
+        "hardwareVersion": {
+          "reportedValue": "NANO2",
+          "displayValue": "NANO2",
+          "reportReceivedTime": 1569932249979,
+          "reportChangedTime": 1569932249582
+        },
+        "model": {
+          "reportedValue": "NANO2",
+          "displayValue": "NANO2",
+          "reportReceivedTime": 1569932248794,
+          "reportChangedTime": 1569932248446
+        },
+        "connection": {
+          "reportedValue": "ETHERNET",
+          "displayValue": "ETHERNET",
+          "reportReceivedTime": 1569932247422,
+          "reportChangedTime": 1569932247137
+        },
+        "rootFSVersion": {
+          "reportedValue": "Nano 2.7.1 (quasar)",
+          "displayValue": "Nano 2.7.1 (quasar)",
+          "reportReceivedTime": 1569932249812,
+          "reportChangedTime": 1569932249583
+        },
+        "presence": {
+          "reportedValue": "PRESENT",
+          "displayValue": "PRESENT"
+        },
+        "capabilities": {
+          "reportedValue": "[\"deviceRemoval\",\"bindableSyntheticDevices\",\"migrationDestination\",\"featureBasedSyntheticDevices\",\"alexaReporting\",\"googleReporting\",\"actions2.0-beta\",\"actions2.0\",\"sourceFeed\",\"secureFeed\"]",
+          "displayValue": "[\"deviceRemoval\",\"bindableSyntheticDevices\",\"migrationDestination\",\"featureBasedSyntheticDevices\",\"alexaReporting\",\"googleReporting\",\"actions2.0-beta\",\"actions2.0\",\"sourceFeed\",\"secureFeed\"]",
+          "reportReceivedTime": 1569932249113,
+          "reportChangedTime": 1569932248425
+        },
+        "ethernetConnectionState": {
+          "reportedValue": "CONNECTED",
+          "displayValue": "CONNECTED",
+          "reportReceivedTime": 1569932247374,
+          "reportChangedTime": 1569932247111
+        },
+        "supportedSyntheticDevices": {
+          "reportedValue": "[\"http://alertme.com/schema/json/node.class.synthetic.daylight.json#\",\"http://alertme.com/schema/json/node.class.synthetic.fake.occupancy.json#\",\"http://alertme.com/schema/json/node.class.synthetic.home.state.json#\",\"http://alertme.com/schema/json/node.class.synthetic.security.device.json#\",\"http://alertme.com/schema/json/node.class.synthetic.front.door.alarm.json#\",\"http://alertme.com/schema/json/node.class.synthetic.no.morning.activity.alarm.json#\",\"http://alertme.com/schema/json/node.class.synthetic.night.time.alarm.json#\",\"http://alertme.com/schema/json/node.class.synthetic.control.device.uniform.scheduler.json#\",\"http://alertme.com/schema/json/node.class.synthetic.mqtt.camera.mirror.device.json#\",\"http://alertme.com/schema/json/node.class.synthetic.group.json#\",\"http://alertme.com/schema/json/node.class.thermostat.json#\",\"http://alertme.com/schema/json/node.class.synthetic.binary.control.device.uniform.scheduler.json#\",\"http://alertme.com/schema/json/node.class.synthetic.testing.mirror.device.json#\",\"http://alertme.com/schema/json/node.class.synthetic.no.recent.activity.alarm.json#\",\"http://alertme.com/schema/json/node.class.synthetic.philips.hue.bridge.json#\",\"http://alertme.com/schema/json/node.class.synthetic.rule.json#\"]",
+          "displayValue": "[\"http://alertme.com/schema/json/node.class.synthetic.daylight.json#\",\"http://alertme.com/schema/json/node.class.synthetic.fake.occupancy.json#\",\"http://alertme.com/schema/json/node.class.synthetic.home.state.json#\",\"http://alertme.com/schema/json/node.class.synthetic.security.device.json#\",\"http://alertme.com/schema/json/node.class.synthetic.front.door.alarm.json#\",\"http://alertme.com/schema/json/node.class.synthetic.no.morning.activity.alarm.json#\",\"http://alertme.com/schema/json/node.class.synthetic.night.time.alarm.json#\",\"http://alertme.com/schema/json/node.class.synthetic.control.device.uniform.scheduler.json#\",\"http://alertme.com/schema/json/node.class.synthetic.mqtt.camera.mirror.device.json#\",\"http://alertme.com/schema/json/node.class.synthetic.group.json#\",\"http://alertme.com/schema/json/node.class.thermostat.json#\",\"http://alertme.com/schema/json/node.class.synthetic.binary.control.device.uniform.scheduler.json#\",\"http://alertme.com/schema/json/node.class.synthetic.testing.mirror.device.json#\",\"http://alertme.com/schema/json/node.class.synthetic.no.recent.activity.alarm.json#\",\"http://alertme.com/schema/json/node.class.synthetic.philips.hue.bridge.json#\",\"http://alertme.com/schema/json/node.class.synthetic.rule.json#\"]",
+          "reportReceivedTime": 1569932248910,
+          "reportChangedTime": 1569932248445
+        },
+        "supportsCombinedUpgrade": {
+          "reportedValue": true,
+          "displayValue": true,
+          "reportReceivedTime": 1569932249859,
+          "reportChangedTime": 1569932249581
+        },
+        "nodeType": {
+          "reportedValue": "http://alertme.com/schema/json/node.class.hub.json#",
+          "displayValue": "http://alertme.com/schema/json/node.class.hub.json#"
+        },
+        "zigBeeRadioChannel": {
+          "reportedValue": 11,
+          "displayValue": 11,
+          "reportReceivedTime": 1569932305055,
+          "reportChangedTime": 1569932305036
+        },
+        "uptime": {
+          "reportedValue": 1726200,
+          "displayValue": 1726200,
+          "reportReceivedTime": 1571658329875,
+          "reportChangedTime": 1571658329867
+        },
+        "currentTime": {
+          "reportedValue": "2019-10-21T12:02:58.989+0000",
+          "displayValue": "2019-10-21T12:02:58.989+0000",
+          "reportReceivedTime": 1571659378990
+        },
+        "operationalMode": {
+          "reportedValue": "DEPLOYED",
+          "displayValue": "DEPLOYED",
+          "reportReceivedTime": 1569932249028,
+          "reportChangedTime": 1569932248423
+        },
+        "macAddress": {
+          "reportedValue": "00:1C:2B:0A:E4:E0",
+          "displayValue": "00:1C:2B:0A:E4:E0",
+          "reportReceivedTime": 1569932249886,
+          "reportChangedTime": 1569932249577
+        },
+        "zigBeeTileFirmwareVersion": {
+          "reportedValue": "CICIE R311 B250319",
+          "displayValue": "CICIE R311 B250319",
+          "reportReceivedTime": 1569932303139,
+          "reportChangedTime": 1569932303123
+        },
+        "kernelVersion": {
+          "reportedValue": "4.14.108+",
+          "displayValue": "4.14.108+",
+          "reportReceivedTime": 1569932249827,
+          "reportChangedTime": 1569932249580
+        },
+        "internalIPAddress": {
+          "reportedValue": "192.168.1.7",
+          "displayValue": "192.168.1.7",
+          "reportReceivedTime": 1569932247484,
+          "reportChangedTime": 1569932247123
+        },
+        "kernelBuildDate": {
+          "reportedValue": "Optional[Mon Mar 25 14:21:42 UTC 2019]",
+          "displayValue": "Optional[Mon Mar 25 14:21:42 UTC 2019]",
+          "reportReceivedTime": 1569932249998,
+          "reportChangedTime": 1569932249602
+        },
+        "pcbRevision": {
+          "reportedValue": 1,
+          "displayValue": 1,
+          "reportReceivedTime": 1569932249910,
+          "reportChangedTime": 1569932249600
+        },
+        "softwareVersion": {
+          "reportedValue": "1.0.0-7003-Q178",
+          "displayValue": "1.0.0-7003-Q178",
+          "reportReceivedTime": 1569932249947,
+          "reportChangedTime": 1569932249602
+        },
+        "serverConnectionState": {
+          "reportedValue": "CONNECTED",
+          "displayValue": "CONNECTED",
+          "reportReceivedTime": 1569932249067,
+          "reportChangedTime": 1569932248457
+        }
+      }
+    },
+    {
+      "id": "cb80fc5d-a316-4dd7-892a-0d0e9292b89f",
+      "href": "https://api.prod.bgchprod.info/omnia/nodes/cb80fc5d-a316-4dd7-892a-0d0e9292b89f",
+      "name": "Train",
+      "parentNodeId": "e176d824-89c1-4b92-a5b6-d3a48be2d3d8",
+      "createdOn": 1466960700575,
+      "userId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "ownerId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "homeId": "0f586eaf-ce2b-4550-addc-d76e42627b66",
+      "protocol": "ZIGBEE",
+      "attributes": {
+        "model": {
+          "reportedValue": "SLP2",
+          "displayValue": "SLP2"
+        },
+        "presence": {
+          "reportedValue": "ABSENT",
+          "displayValue": "ABSENT",
+          "reportReceivedTime": 1569933205608,
+          "reportChangedTime": 1569933205532
+        },
+        "nodeType": {
+          "reportedValue": "http://alertme.com/schema/json/node.class.smartplug.json#",
+          "displayValue": "http://alertme.com/schema/json/node.class.smartplug.json#"
+        },
+        "manufacturer": {
+          "reportedValue": "Computime",
+          "displayValue": "Computime"
+        }
+      }
+    },
+    {
+      "id": "bbbeecb0-3111-46d4-bec5-401a8630c139",
+      "href": "https://api.prod.bgchprod.info/omnia/nodes/bbbeecb0-3111-46d4-bec5-401a8630c139",
+      "name": "Christmas Tree",
+      "parentNodeId": "e176d824-89c1-4b92-a5b6-d3a48be2d3d8",
+      "createdOn": 1466960818070,
+      "userId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "ownerId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "homeId": "0f586eaf-ce2b-4550-addc-d76e42627b66",
+      "protocol": "ZIGBEE",
+      "attributes": {
+        "model": {
+          "reportedValue": "SLP2",
+          "displayValue": "SLP2"
+        },
+        "presence": {
+          "reportedValue": "ABSENT",
+          "displayValue": "ABSENT",
+          "reportReceivedTime": 1569933207735,
+          "reportChangedTime": 1569933207675
+        },
+        "nodeType": {
+          "reportedValue": "http://alertme.com/schema/json/node.class.smartplug.json#",
+          "displayValue": "http://alertme.com/schema/json/node.class.smartplug.json#"
+        },
+        "manufacturer": {
+          "reportedValue": "Computime",
+          "displayValue": "Computime"
+        }
+      }
+    },
+    {
+      "id": "93c1b926-f29f-48c4-b722-37d9096542dc",
+      "href": "https://api.prod.bgchprod.info/omnia/nodes/93c1b926-f29f-48c4-b722-37d9096542dc",
+      "name": "Front Door",
+      "parentNodeId": "e176d824-89c1-4b92-a5b6-d3a48be2d3d8",
+      "createdOn": 1466961030923,
+      "userId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "ownerId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "homeId": "0f586eaf-ce2b-4550-addc-d76e42627b66",
+      "upgradeStatus": "COMPLETE",
+      "protocol": "ZIGBEE",
+      "attributes": {
+        "nativeIdentifier": {
+          "reportedValue": "B711",
+          "displayValue": "B711",
+          "reportReceivedTime": 1569932234613,
+          "reportChangedTime": 1569932198598
+        },
+        "LQI": {
+          "reportedValue": 99,
+          "displayValue": 99,
+          "reportReceivedTime": 1571658909088,
+          "reportChangedTime": 1571658909025
+        },
+        "batteryVoltage": {
+          "reportedValue": 3,
+          "displayValue": 3,
+          "reportReceivedTime": 1570240699850,
+          "reportChangedTime": 1570240699769
+        },
+        "nodeType": {
+          "reportedValue": "http://alertme.com/schema/json/node.class.contact.sensor.json#",
+          "displayValue": "http://alertme.com/schema/json/node.class.contact.sensor.json#"
+        },
+        "powerSupply": {
+          "reportedValue": "BATTERY",
+          "displayValue": "BATTERY",
+          "reportReceivedTime": 1569932234610,
+          "reportChangedTime": 1569932198607
+        },
+        "manufacturer": {
+          "reportedValue": "AlertMe.com",
+          "displayValue": "AlertMe.com",
+          "reportReceivedTime": 1569932234605,
+          "reportChangedTime": 1569932198610
+        },
+        "RSSI": {
+          "reportedValue": -62,
+          "displayValue": -62,
+          "reportReceivedTime": 1571657468907,
+          "reportChangedTime": 1571657468864
+        },
+        "macAddress": {
+          "reportedValue": "000D6F0005A54723",
+          "displayValue": "000D6F0005A54723",
+          "reportReceivedTime": 1569932708184,
+          "reportChangedTime": 1569932708125
+        },
+        "batteryState": {
+          "reportedValue": "FULL",
+          "displayValue": "FULL",
+          "reportReceivedTime": 1570240699806,
+          "reportChangedTime": 1570240699763
+        },
+        "temperature": {
+          "reportedValue": 17,
+          "displayValue": 17,
+          "reportReceivedTime": 1571657683840,
+          "reportChangedTime": 1571657683803
+        },
+        "model": {
+          "reportedValue": "WDS00140002",
+          "displayValue": "WDS00140002",
+          "reportReceivedTime": 1569932234612,
+          "reportChangedTime": 1569932198599
+        },
+        "state": {
+          "reportedValue": "CLOSED",
+          "displayValue": "CLOSED",
+          "reportReceivedTime": 1571646875834,
+          "reportChangedTime": 1571646875805
+        },
+        "presence": {
+          "reportedValue": "PRESENT",
+          "displayValue": "PRESENT",
+          "reportReceivedTime": 1569932709252,
+          "reportChangedTime": 1569932709225
+        },
+        "softwareVersion": {
+          "reportedValue": "31005010",
+          "displayValue": "31005010",
+          "reportReceivedTime": 1569932234612,
+          "reportChangedTime": 1569932198608
+        },
+        "batteryLevel": {
+          "reportedValue": 100,
+          "displayValue": 100,
+          "reportReceivedTime": 1569932709726,
+          "reportChangedTime": 1569932709638
+        },
+        "batteryAlertEnabled": {
+          "reportedValue": true,
+          "displayValue": true,
+          "reportReceivedTime": 1569932709703,
+          "reportChangedTime": 1569932709639
+        }
+      }
+    },
+    {
+      "id": "fd035345-dced-4d0b-b92d-10591d21393e",
+      "href": "https://api.prod.bgchprod.info/omnia/nodes/fd035345-dced-4d0b-b92d-10591d21393e",
+      "name": "Back Door",
+      "parentNodeId": "e176d824-89c1-4b92-a5b6-d3a48be2d3d8",
+      "createdOn": 1466961166949,
+      "userId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "ownerId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "homeId": "0f586eaf-ce2b-4550-addc-d76e42627b66",
+      "protocol": "ZIGBEE",
+      "attributes": {
+        "nativeIdentifier": {
+          "reportedValue": "9B8C",
+          "displayValue": "9B8C",
+          "reportReceivedTime": 1569932469827,
+          "reportChangedTime": 1569932469629
+        },
+        "LQI": {
+          "reportedValue": 100,
+          "displayValue": 100,
+          "reportReceivedTime": 1571657032326,
+          "reportChangedTime": 1571657032193
+        },
+        "batteryVoltage": {
+          "reportedValue": 2.9,
+          "displayValue": 2.9,
+          "reportReceivedTime": 1569932477794,
+          "reportChangedTime": 1569932477761
+        },
+        "nodeType": {
+          "reportedValue": "http://alertme.com/schema/json/node.class.contact.sensor.json#",
+          "displayValue": "http://alertme.com/schema/json/node.class.contact.sensor.json#"
+        },
+        "powerSupply": {
+          "reportedValue": "BATTERY",
+          "displayValue": "BATTERY",
+          "reportReceivedTime": 1569932470209,
+          "reportChangedTime": 1569932470201
+        },
+        "manufacturer": {
+          "reportedValue": "AlertMe.com",
+          "displayValue": "AlertMe.com",
+          "reportReceivedTime": 1569932469363,
+          "reportChangedTime": 1569932469358
+        },
+        "RSSI": {
+          "reportedValue": -64,
+          "displayValue": -64,
+          "reportReceivedTime": 1571657032287,
+          "reportChangedTime": 1571657032191
+        },
+        "macAddress": {
+          "reportedValue": "000D6F0005A551D3",
+          "displayValue": "000D6F0005A551D3",
+          "reportReceivedTime": 1569932469784,
+          "reportChangedTime": 1569932469503
+        },
+        "batteryState": {
+          "reportedValue": "NORMAL",
+          "displayValue": "NORMAL",
+          "reportReceivedTime": 1569932477781,
+          "reportChangedTime": 1569932477747
+        },
+        "temperature": {
+          "reportedValue": 18.5,
+          "displayValue": 18.5,
+          "reportReceivedTime": 1571657661277,
+          "reportChangedTime": 1571657661260
+        },
+        "model": {
+          "reportedValue": "WDS00140002",
+          "displayValue": "WDS00140002",
+          "reportReceivedTime": 1569932469637,
+          "reportChangedTime": 1569932469440
+        },
+        "state": {
+          "reportedValue": "CLOSED",
+          "displayValue": "CLOSED",
+          "reportReceivedTime": 1571658718830,
+          "reportChangedTime": 1571658718795
+        },
+        "presence": {
+          "reportedValue": "PRESENT",
+          "displayValue": "PRESENT",
+          "reportReceivedTime": 1569932470189,
+          "reportChangedTime": 1569932470169
+        },
+        "softwareVersion": {
+          "reportedValue": "31005010",
+          "displayValue": "31005010",
+          "reportReceivedTime": 1569932469737,
+          "reportChangedTime": 1569932469487
+        },
+        "batteryAlertEnabled": {
+          "reportedValue": true,
+          "displayValue": true,
+          "reportReceivedTime": 1569932470425,
+          "reportChangedTime": 1569932470414
+        },
+        "batteryLevel": {
+          "reportedValue": 100,
+          "displayValue": 100,
+          "reportReceivedTime": 1569932234696,
+          "reportChangedTime": 1569932203381
+        }
+      }
+    },
+    {
+      "id": "dfff32bd-3938-4a0d-81ab-4a94a3ded35f",
+      "href": "https://api.prod.bgchprod.info/omnia/nodes/dfff32bd-3938-4a0d-81ab-4a94a3ded35f",
+      "name": "http://alertme.com/schema/json/node.class.synthetic.binary.sensor.device.uniform.scheduler.json#",
+      "parentNodeId": "e176d824-89c1-4b92-a5b6-d3a48be2d3d8",
+      "createdOn": 1466962300249,
+      "userId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "ownerId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "homeId": "0f586eaf-ce2b-4550-addc-d76e42627b66",
+      "protocol": "SYNTHETIC",
+      "attributes": {
+        "presence": {
+          "reportedValue": "ABSENT",
+          "displayValue": "ABSENT"
+        },
+        "producers": {
+          "reportedValue": "[{\"nodeId\":\"93c1b926-f29f-48c4-b722-37d9096542dc\"}]",
+          "targetValue": "[{\"nodeId\":\"93c1b926-f29f-48c4-b722-37d9096542dc\"}]",
+          "displayValue": "[{\"nodeId\":\"93c1b926-f29f-48c4-b722-37d9096542dc\"}]"
+        }
+      }
+    },
+    {
+      "id": "435a7877-41c6-49f2-ba64-6a0e5bc98854",
+      "href": "https://api.prod.bgchprod.info/omnia/nodes/435a7877-41c6-49f2-ba64-6a0e5bc98854",
+      "name": "http://alertme.com/schema/json/node.class.synthetic.binary.sensor.device.uniform.scheduler.json#",
+      "parentNodeId": "e176d824-89c1-4b92-a5b6-d3a48be2d3d8",
+      "createdOn": 1466968770270,
+      "userId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "ownerId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "homeId": "0f586eaf-ce2b-4550-addc-d76e42627b66",
+      "protocol": "SYNTHETIC",
+      "attributes": {
+        "presence": {
+          "reportedValue": "ABSENT",
+          "displayValue": "ABSENT"
+        },
+        "producers": {
+          "reportedValue": "[{\"nodeId\":\"fd035345-dced-4d0b-b92d-10591d21393e\"}]",
+          "targetValue": "[{\"nodeId\":\"fd035345-dced-4d0b-b92d-10591d21393e\"}]",
+          "displayValue": "[{\"nodeId\":\"fd035345-dced-4d0b-b92d-10591d21393e\"}]"
+        }
+      }
+    },
+    {
+      "id": "0d410481-78f2-4f39-bd48-1458d94ded2d",
+      "href": "https://api.prod.bgchprod.info/omnia/nodes/0d410481-78f2-4f39-bd48-1458d94ded2d",
+      "name": "Signal Booster",
+      "parentNodeId": "e176d824-89c1-4b92-a5b6-d3a48be2d3d8",
+      "createdOn": 1467218889041,
+      "userId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "ownerId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "homeId": "0f586eaf-ce2b-4550-addc-d76e42627b66",
+      "upgradeStatus": "COMPLETE",
+      "protocol": "ZIGBEE",
+      "attributes": {
+        "zigBeeBindingTable": {
+          "reportedValue": "[]",
+          "displayValue": "[]",
+          "reportReceivedTime": 1569968324990,
+          "reportChangedTime": 1569968324958
+        },
+        "RSSI": {
+          "reportedValue": -64,
+          "displayValue": -64,
+          "reportReceivedTime": 1571657622118,
+          "reportChangedTime": 1571657622109
+        },
+        "macAddress": {
+          "reportedValue": "001E5E090211ABBC",
+          "displayValue": "001E5E090211ABBC",
+          "reportReceivedTime": 1569932311871,
+          "reportChangedTime": 1569932311780
+        },
+        "nativeIdentifier": {
+          "reportedValue": "D8CB",
+          "displayValue": "D8CB",
+          "reportReceivedTime": 1569932235853,
+          "reportChangedTime": 1569932203206
+        },
+        "LQI": {
+          "reportedValue": 100,
+          "displayValue": 100,
+          "reportReceivedTime": 1571656302107,
+          "reportChangedTime": 1571656302043
+        },
+        "model": {
+          "reportedValue": "SLB1",
+          "displayValue": "SLB1",
+          "reportReceivedTime": 1569932235847,
+          "reportChangedTime": 1569932203211
+        },
+        "presence": {
+          "reportedValue": "PRESENT",
+          "displayValue": "PRESENT",
+          "reportReceivedTime": 1569932314791,
+          "reportChangedTime": 1569932313576
+        },
+        "nodeType": {
+          "reportedValue": "http://alertme.com/schema/json/node.class.zigbee.range.extender.json#",
+          "displayValue": "http://alertme.com/schema/json/node.class.zigbee.range.extender.json#"
+        },
+        "powerSupply": {
+          "reportedValue": "AC",
+          "displayValue": "AC",
+          "reportReceivedTime": 1569932235853,
+          "reportChangedTime": 1569932203212
+        },
+        "softwareVersion": {
+          "reportedValue": "01155120",
+          "displayValue": "01155120",
+          "reportReceivedTime": 1569932235852,
+          "reportChangedTime": 1569932203213
+        },
+        "manufacturer": {
+          "reportedValue": "Computime",
+          "displayValue": "Computime",
+          "reportReceivedTime": 1569932235847,
+          "reportChangedTime": 1569932203214
+        }
+      }
+    },
+    {
+      "id": "867772bc-a705-42e1-8804-b78ee764aabc",
+      "href": "https://api.prod.bgchprod.info/omnia/nodes/867772bc-a705-42e1-8804-b78ee764aabc",
+      "name": "http://alertme.com/schema/json/node.class.synthetic.binary.control.device.uniform.scheduler.json#",
+      "parentNodeId": "e176d824-89c1-4b92-a5b6-d3a48be2d3d8",
+      "createdOn": 1493224242374,
+      "userId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "ownerId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "homeId": "0f586eaf-ce2b-4550-addc-d76e42627b66",
+      "protocol": "SYNTHETIC",
+      "attributes": {
+        "protocol": {
+          "reportedValue": "SYNTHETIC",
+          "displayValue": "SYNTHETIC",
+          "reportReceivedTime": 1569932234993,
+          "reportChangedTime": 1569932201970
+        },
+        "syntheticDeviceConfiguration": {
+          "reportedValue": "{\"enabled\":false,\"schedule\":[{\"dayIndex\":1,\"transitions\":[{\"time\":\"02:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"05:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"08:15\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"09:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}}]},{\"dayIndex\":2,\"transitions\":[{\"time\":\"02:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"05:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"08:15\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"09:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]},{\"dayIndex\":3,\"transitions\":[{\"time\":\"02:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"05:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"08:15\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"09:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]},{\"dayIndex\":4,\"transitions\":[{\"time\":\"02:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"05:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"08:15\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"09:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]},{\"dayIndex\":5,\"transitions\":[{\"time\":\"02:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"05:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"08:15\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"09:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]},{\"dayIndex\":6,\"transitions\":[{\"time\":\"02:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"05:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"08:15\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"09:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]},{\"dayIndex\":7,\"transitions\":[{\"time\":\"02:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"05:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"08:15\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"09:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]}]}",
+          "displayValue": "{\"enabled\":false,\"schedule\":[{\"dayIndex\":1,\"transitions\":[{\"time\":\"02:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"05:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"08:15\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"09:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}}]},{\"dayIndex\":2,\"transitions\":[{\"time\":\"02:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"05:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"08:15\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"09:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]},{\"dayIndex\":3,\"transitions\":[{\"time\":\"02:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"05:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"08:15\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"09:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]},{\"dayIndex\":4,\"transitions\":[{\"time\":\"02:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"05:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"08:15\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"09:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]},{\"dayIndex\":5,\"transitions\":[{\"time\":\"02:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"05:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"08:15\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"09:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]},{\"dayIndex\":6,\"transitions\":[{\"time\":\"02:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"05:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"08:15\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"09:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]},{\"dayIndex\":7,\"transitions\":[{\"time\":\"02:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"05:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"08:15\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"09:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]}]}",
+          "reportReceivedTime": 1569932327484,
+          "reportChangedTime": 1569932327157
+        },
+        "bindings": {
+          "reportedValue": "[{\"boundNodeAddress\":\"::21e:5e09:214:c17b\",\"syntheticNodeId\":\"::200:ff:fe0e:5f6b@2029728035187458050\",\"syntheticKey\":\"CONSUMER\"}]",
+          "displayValue": "[{\"boundNodeAddress\":\"::21e:5e09:214:c17b\",\"syntheticNodeId\":\"::200:ff:fe0e:5f6b@2029728035187458050\",\"syntheticKey\":\"CONSUMER\"}]",
+          "reportReceivedTime": 1569932235025,
+          "reportChangedTime": 1569932201980
+        },
+        "consumers": {
+          "reportedValue": "[\"cb80fc5d-a316-4dd7-892a-0d0e9292b89f\"]",
+          "targetValue": "[\"cb80fc5d-a316-4dd7-892a-0d0e9292b89f\"]",
+          "displayValue": "[\"cb80fc5d-a316-4dd7-892a-0d0e9292b89f\"]"
+        },
+        "presence": {
+          "reportedValue": "PRESENT",
+          "displayValue": "PRESENT",
+          "reportReceivedTime": 1569932234994,
+          "reportChangedTime": 1569932201981
+        },
+        "nodeType": {
+          "reportedValue": "http://alertme.com/schema/json/node.class.synthetic.binary.control.device.uniform.scheduler.json#",
+          "displayValue": "http://alertme.com/schema/json/node.class.synthetic.binary.control.device.uniform.scheduler.json#"
+        }
+      }
+    },
+    {
+      "id": "a7f8f4d3-55a5-4172-8e78-ceb63c098e84",
+      "href": "https://api.prod.bgchprod.info/omnia/nodes/a7f8f4d3-55a5-4172-8e78-ceb63c098e84",
+      "name": "http://alertme.com/schema/json/node.class.synthetic.binary.control.device.uniform.scheduler.json#",
+      "parentNodeId": "e176d824-89c1-4b92-a5b6-d3a48be2d3d8",
+      "createdOn": 1493224242389,
+      "userId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "ownerId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "homeId": "0f586eaf-ce2b-4550-addc-d76e42627b66",
+      "protocol": "SYNTHETIC",
+      "attributes": {
+        "protocol": {
+          "reportedValue": "SYNTHETIC",
+          "displayValue": "SYNTHETIC",
+          "reportReceivedTime": 1569932235916,
+          "reportChangedTime": 1569932202954
+        },
+        "syntheticDeviceConfiguration": {
+          "reportedValue": "{\"enabled\":false,\"schedule\":[{\"dayIndex\":1,\"transitions\":[{\"time\":\"06:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"08:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"16:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"21:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]},{\"dayIndex\":2,\"transitions\":[{\"time\":\"06:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"08:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"16:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"21:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]},{\"dayIndex\":3,\"transitions\":[{\"time\":\"06:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"08:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"16:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"21:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]},{\"dayIndex\":4,\"transitions\":[{\"time\":\"06:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"08:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"16:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"21:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]},{\"dayIndex\":5,\"transitions\":[{\"time\":\"06:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"08:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"16:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"21:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]},{\"dayIndex\":6,\"transitions\":[{\"time\":\"06:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"08:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"16:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"21:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]},{\"dayIndex\":7,\"transitions\":[{\"time\":\"06:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"08:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"16:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"21:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]}]}",
+          "displayValue": "{\"enabled\":false,\"schedule\":[{\"dayIndex\":1,\"transitions\":[{\"time\":\"06:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"08:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"16:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"21:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]},{\"dayIndex\":2,\"transitions\":[{\"time\":\"06:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"08:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"16:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"21:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]},{\"dayIndex\":3,\"transitions\":[{\"time\":\"06:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"08:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"16:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"21:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]},{\"dayIndex\":4,\"transitions\":[{\"time\":\"06:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"08:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"16:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"21:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]},{\"dayIndex\":5,\"transitions\":[{\"time\":\"06:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"08:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"16:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"21:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]},{\"dayIndex\":6,\"transitions\":[{\"time\":\"06:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"08:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"16:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"21:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]},{\"dayIndex\":7,\"transitions\":[{\"time\":\"06:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"08:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}},{\"time\":\"16:00\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"ON\"}},{\"time\":\"21:30\",\"action\":{\"actionType\":\"http://alertme.com/schema/json/configuration/configuration.device.action.generic.v1.json#\",\"state\":\"OFF\"}}]}]}",
+          "reportReceivedTime": 1569932327364,
+          "reportChangedTime": 1569932327160
+        },
+        "bindings": {
+          "reportedValue": "[{\"boundNodeAddress\":\"::21e:5e09:214:c4aa\",\"syntheticNodeId\":\"::200:ff:fe0e:5f6c@2029728035187458050\",\"syntheticKey\":\"CONSUMER\"}]",
+          "displayValue": "[{\"boundNodeAddress\":\"::21e:5e09:214:c4aa\",\"syntheticNodeId\":\"::200:ff:fe0e:5f6c@2029728035187458050\",\"syntheticKey\":\"CONSUMER\"}]",
+          "reportReceivedTime": 1569932235936,
+          "reportChangedTime": 1569932202959
+        },
+        "consumers": {
+          "reportedValue": "[\"bbbeecb0-3111-46d4-bec5-401a8630c139\"]",
+          "targetValue": "[\"bbbeecb0-3111-46d4-bec5-401a8630c139\"]",
+          "displayValue": "[\"bbbeecb0-3111-46d4-bec5-401a8630c139\"]"
+        },
+        "presence": {
+          "reportedValue": "PRESENT",
+          "displayValue": "PRESENT",
+          "reportReceivedTime": 1569932235917,
+          "reportChangedTime": 1569932202964
+        },
+        "nodeType": {
+          "reportedValue": "http://alertme.com/schema/json/node.class.synthetic.binary.control.device.uniform.scheduler.json#",
+          "displayValue": "http://alertme.com/schema/json/node.class.synthetic.binary.control.device.uniform.scheduler.json#"
+        }
+      }
+    },
+    {
+      "id": "a7de9750-3377-4fe2-ac68-b04606639466",
+      "href": "https://api.prod.bgchprod.info/omnia/nodes/a7de9750-3377-4fe2-ac68-b04606639466",
+      "name": "When a window or door opens or closes",
+      "parentNodeId": "e176d824-89c1-4b92-a5b6-d3a48be2d3d8",
+      "createdOn": 1493224282501,
+      "userId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "ownerId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "homeId": "0f586eaf-ce2b-4550-addc-d76e42627b66",
+      "protocol": "SYNTHETIC",
+      "attributes": {
+        "protocol": {
+          "reportedValue": "SYNTHETIC",
+          "displayValue": "SYNTHETIC",
+          "reportReceivedTime": 1569932235749,
+          "reportChangedTime": 1569932202904
+        },
+        "syntheticDeviceConfiguration": {
+          "reportedValue": "{\"currentlyEntitled\":true}",
+          "displayValue": "{\"currentlyEntitled\":true}",
+          "reportReceivedTime": 1569932235748,
+          "reportChangedTime": 1569932202906
+        },
+        "bindings": {
+          "reportedValue": "[{\"boundNodeAddress\":\"::20d:6f00:5a5:4723\",\"syntheticNodeId\":\"::200:ff:fe0e:5f6d@2029728035187458050\",\"syntheticKey\":\"PRODUCER\"}]",
+          "displayValue": "[{\"boundNodeAddress\":\"::20d:6f00:5a5:4723\",\"syntheticNodeId\":\"::200:ff:fe0e:5f6d@2029728035187458050\",\"syntheticKey\":\"PRODUCER\"}]",
+          "reportReceivedTime": 1569932235745,
+          "reportChangedTime": 1569932202907
+        },
+        "consumers": {
+          "reportedValue": "[\"93c1b926-f29f-48c4-b722-37d9096542dc\"]",
+          "targetValue": "[\"93c1b926-f29f-48c4-b722-37d9096542dc\"]",
+          "displayValue": "[\"93c1b926-f29f-48c4-b722-37d9096542dc\"]",
+          "reportReceivedTime": 1569932235746,
+          "reportChangedTime": 1569932202908
+        },
+        "presence": {
+          "reportedValue": "PRESENT",
+          "displayValue": "PRESENT",
+          "reportReceivedTime": 1569932235747,
+          "reportChangedTime": 1569932202909
+        },
+        "nodeType": {
+          "reportedValue": "http://alertme.com/schema/json/node.class.synthetic.rule.json#",
+          "displayValue": "http://alertme.com/schema/json/node.class.synthetic.rule.json#"
+        },
+        "producers": {
+          "reportedValue": "[{\"nodeId\":\"93c1b926-f29f-48c4-b722-37d9096542dc\"}]",
+          "targetValue": "[{\"nodeId\":\"93c1b926-f29f-48c4-b722-37d9096542dc\"}]",
+          "displayValue": "[{\"nodeId\":\"93c1b926-f29f-48c4-b722-37d9096542dc\"}]",
+          "reportReceivedTime": 1569932235747,
+          "reportChangedTime": 1569932202910
+        }
+      }
+    },
+    {
+      "id": "b697e5b7-afdd-4d45-b662-e3234d9ebcc9",
+      "href": "https://api.prod.bgchprod.info/omnia/nodes/b697e5b7-afdd-4d45-b662-e3234d9ebcc9",
+      "name": "When a window or door opens or closes",
+      "parentNodeId": "e176d824-89c1-4b92-a5b6-d3a48be2d3d8",
+      "createdOn": 1493224383592,
+      "userId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "ownerId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "homeId": "0f586eaf-ce2b-4550-addc-d76e42627b66",
+      "protocol": "SYNTHETIC",
+      "attributes": {
+        "protocol": {
+          "reportedValue": "SYNTHETIC",
+          "displayValue": "SYNTHETIC",
+          "reportReceivedTime": 1569932235695,
+          "reportChangedTime": 1569932196861
+        },
+        "syntheticDeviceConfiguration": {
+          "reportedValue": "{\"currentlyEntitled\":true}",
+          "displayValue": "{\"currentlyEntitled\":true}",
+          "reportReceivedTime": 1570319029617,
+          "reportChangedTime": 1570319029556
+        },
+        "bindings": {
+          "reportedValue": "[{\"boundNodeAddress\":\"::20d:6f00:5a5:51d3\",\"syntheticNodeId\":\"::200:ff:fe0e:5f72@2029728035187458050\",\"syntheticKey\":\"PRODUCER\"}]",
+          "displayValue": "[{\"boundNodeAddress\":\"::20d:6f00:5a5:51d3\",\"syntheticNodeId\":\"::200:ff:fe0e:5f72@2029728035187458050\",\"syntheticKey\":\"PRODUCER\"}]",
+          "reportReceivedTime": 1569932235695,
+          "reportChangedTime": 1569932196872
+        },
+        "consumers": {
+          "reportedValue": "[\"fd035345-dced-4d0b-b92d-10591d21393e\"]",
+          "targetValue": "[\"fd035345-dced-4d0b-b92d-10591d21393e\"]",
+          "displayValue": "[\"fd035345-dced-4d0b-b92d-10591d21393e\"]",
+          "reportReceivedTime": 1570319029199,
+          "reportChangedTime": 1570319029183
+        },
+        "presence": {
+          "reportedValue": "PRESENT",
+          "displayValue": "PRESENT",
+          "reportReceivedTime": 1569932235693,
+          "reportChangedTime": 1569932196874
+        },
+        "nodeType": {
+          "reportedValue": "http://alertme.com/schema/json/node.class.synthetic.rule.json#",
+          "displayValue": "http://alertme.com/schema/json/node.class.synthetic.rule.json#"
+        },
+        "producers": {
+          "reportedValue": "[{\"nodeId\":\"fd035345-dced-4d0b-b92d-10591d21393e\"}]",
+          "targetValue": "[{\"nodeId\":\"fd035345-dced-4d0b-b92d-10591d21393e\"}]",
+          "displayValue": "[{\"nodeId\":\"fd035345-dced-4d0b-b92d-10591d21393e\"}]",
+          "reportReceivedTime": 1569932235694,
+          "reportChangedTime": 1569932196875
+        }
+      }
+    },
+    {
+      "id": "06930af0-33ea-49d4-aaf5-52dbf9bdcb44",
+      "href": "https://api.prod.bgchprod.info/omnia/nodes/06930af0-33ea-49d4-aaf5-52dbf9bdcb44",
+      "name": "Receiver 1",
+      "parentNodeId": "e176d824-89c1-4b92-a5b6-d3a48be2d3d8",
+      "createdOn": 1499790058318,
+      "userId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "ownerId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "homeId": "0f586eaf-ce2b-4550-addc-d76e42627b66",
+      "protocol": "ZIGBEE",
+      "attributes": {
+        "nativeIdentifier": {
+          "reportedValue": "1AD9",
+          "displayValue": "1AD9",
+          "reportReceivedTime": 1569932235486,
+          "reportChangedTime": 1569932200301
+        },
+        "LQI": {
+          "reportedValue": 100,
+          "displayValue": 100,
+          "reportReceivedTime": 1571659035414,
+          "reportChangedTime": 1571659035235
+        },
+        "holidayMode": {
+          "reportedValue": "{\"enabled\":false,\"startDateTime\":\"2017-07-23T18:02:00.000+0000\",\"endDateTime\":\"2017-09-30T18:02:00.000+0000\",\"targetHeatTemperature\":1.0}",
+          "displayValue": "{\"enabled\":false,\"startDateTime\":\"2017-07-23T18:02:00.000+0000\",\"endDateTime\":\"2017-09-30T18:02:00.000+0000\",\"targetHeatTemperature\":1.0}",
+          "reportReceivedTime": 1571657652533,
+          "reportChangedTime": 1571657652495
+        },
+        "nodeType": {
+          "reportedValue": "http://alertme.com/schema/json/node.class.thermostat.json#",
+          "displayValue": "http://alertme.com/schema/json/node.class.thermostat.json#"
+        },
+        "powerSupply": {
+          "reportedValue": "AC",
+          "displayValue": "AC",
+          "reportReceivedTime": 1569932235487,
+          "reportChangedTime": 1569932200305
+        },
+        "manufacturer": {
+          "reportedValue": "Computime",
+          "displayValue": "Computime",
+          "reportReceivedTime": 1569932235488,
+          "reportChangedTime": 1569932200309
+        },
+        "zigBeeBindingTable": {
+          "reportedValue": "[{\"sourceAddress\":\"::21e:5e09:221:c89f\",\"sourceEndpoint\":5,\"cluster\":513,\"destinationAddress\":\"::21c:2bff:fe0a:e4e0\",\"destinationEndpoint\":1},{\"sourceAddress\":\"::21e:5e09:221:c89f\",\"sourceEndpoint\":5,\"cluster\":9,\"destinationAddress\":\"::21c:2bff:fe0a:e4e0\",\"destinationEndpoint\":1},{\"sourceAddress\":\"::21e:5e09:221:c89f\",\"sourceEndpoint\":5,\"cluster\":64768,\"destinationAddress\":\"::21c:2bff:fe0a:e4e0\",\"destinationEndpoint\":1}]",
+          "displayValue": "[{\"sourceAddress\":\"::21e:5e09:221:c89f\",\"sourceEndpoint\":5,\"cluster\":513,\"destinationAddress\":\"::21c:2bff:fe0a:e4e0\",\"destinationEndpoint\":1},{\"sourceAddress\":\"::21e:5e09:221:c89f\",\"sourceEndpoint\":5,\"cluster\":9,\"destinationAddress\":\"::21c:2bff:fe0a:e4e0\",\"destinationEndpoint\":1},{\"sourceAddress\":\"::21e:5e09:221:c89f\",\"sourceEndpoint\":5,\"cluster\":64768,\"destinationAddress\":\"::21c:2bff:fe0a:e4e0\",\"destinationEndpoint\":1}]",
+          "reportReceivedTime": 1569968325292,
+          "reportChangedTime": 1569968325131
+        },
+        "RSSI": {
+          "reportedValue": -60,
+          "displayValue": -60,
+          "reportReceivedTime": 1571659035393,
+          "reportChangedTime": 1571659035234
+        },
+        "macAddress": {
+          "reportedValue": "001E5E090221C89F",
+          "displayValue": "001E5E090221C89F",
+          "reportReceivedTime": 1569932315105,
+          "reportChangedTime": 1569932315007
+        },
+        "model": {
+          "reportedValue": "SLR1b",
+          "displayValue": "SLR1b",
+          "reportReceivedTime": 1569932235488,
+          "reportChangedTime": 1569932200303
+        },
+        "zoneName": {
+          "reportedValue": "",
+          "displayValue": "",
+          "reportReceivedTime": 1569932335983,
+          "reportChangedTime": 1569932335966
+        },
+        "presence": {
+          "reportedValue": "PRESENT",
+          "displayValue": "PRESENT",
+          "reportReceivedTime": 1569932316554,
+          "reportChangedTime": 1569932316544
+        },
+        "softwareVersion": {
+          "reportedValue": "03025700",
+          "displayValue": "03025700",
+          "reportReceivedTime": 1569932315014,
+          "reportChangedTime": 1569932314947
+        }
+      }
+    },
+    {
+      "id": "c93a90f0-a487-4783-bca8-26a77e7c52c6",
+      "href": "https://api.prod.bgchprod.info/omnia/nodes/c93a90f0-a487-4783-bca8-26a77e7c52c6",
+      "name": "Receiver 2",
+      "parentNodeId": "06930af0-33ea-49d4-aaf5-52dbf9bdcb44",
+      "createdOn": 1499790062068,
+      "userId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "ownerId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "homeId": "0f586eaf-ce2b-4550-addc-d76e42627b66",
+      "attributes": {
+        "activeScheduleLock": {
+          "reportedValue": false,
+          "displayValue": false,
+          "reportReceivedTime": 1571658186464,
+          "reportChangedTime": 1571658186351
+        },
+        "optimumStartAdvanceTimeFactor": {
+          "reportedValue": 100,
+          "displayValue": 100,
+          "reportReceivedTime": 1569932340211,
+          "reportChangedTime": 1569932339573
+        },
+        "activeOverrides": {
+          "reportedValue": "[]",
+          "displayValue": "[]",
+          "reportReceivedTime": 1571658186539,
+          "reportChangedTime": 1571658186354
+        },
+        "activeHeatCoolMode": {
+          "reportedValue": "HEAT",
+          "displayValue": "HEAT",
+          "reportReceivedTime": 1571658186500,
+          "reportChangedTime": 1571658186353
+        },
+        "delayCompensationTime": {
+          "reportedValue": 0,
+          "displayValue": 0,
+          "reportReceivedTime": 1569932339561,
+          "reportChangedTime": 1569932339032
+        },
+        "targetHeatTemperature": {
+          "reportedValue": 18,
+          "displayValue": 18,
+          "reportReceivedTime": 1571658186789,
+          "reportChangedTime": 1571658186407
+        },
+        "minHeatTemperature": {
+          "reportedValue": 5,
+          "displayValue": 5,
+          "reportReceivedTime": 1569932329876,
+          "reportChangedTime": 1569932329795
+        },
+        "temperature": {
+          "reportedValue": 20.1,
+          "displayValue": 20.1,
+          "reportReceivedTime": 1571658480212,
+          "reportChangedTime": 1571658480083
+        },
+        "errorIntegral": {
+          "reportedValue": 0.1,
+          "displayValue": 0.1,
+          "reportReceivedTime": 1571547593629,
+          "reportChangedTime": 1571547593538
+        },
+        "controlMode": {
+          "reportedValue": "TPI",
+          "displayValue": "TPI",
+          "reportReceivedTime": 1569932339430,
+          "reportChangedTime": 1569932338886
+        },
+        "heatingRateEstimate": {
+          "reportedValue": 119,
+          "displayValue": 119,
+          "reportReceivedTime": 1571658233614,
+          "reportChangedTime": 1571658233513
+        },
+        "optimumStartEnabled": {
+          "reportedValue": false,
+          "displayValue": false,
+          "reportReceivedTime": 1569932339348,
+          "reportChangedTime": 1569932338902
+        },
+        "previousConfiguration": {
+          "reportedValue": "{\"targetHeatTemperature\":18.0,\"mode\":\"AUTO\"}",
+          "displayValue": "{\"targetHeatTemperature\":18.0,\"mode\":\"AUTO\"}",
+          "reportReceivedTime": 1571650498644,
+          "reportChangedTime": 1571650498542
+        },
+        "proportionalThreshold": {
+          "reportedValue": 0.04,
+          "displayValue": 0.04,
+          "reportReceivedTime": 1571657993554,
+          "reportChangedTime": 1571657993430
+        },
+        "maxHeatTemperature": {
+          "reportedValue": 32,
+          "displayValue": 32,
+          "reportReceivedTime": 1569932329899,
+          "reportChangedTime": 1569932329842
+        },
+        "nodeType": {
+          "reportedValue": "http://alertme.com/schema/json/node.class.thermostat.json#",
+          "displayValue": "http://alertme.com/schema/json/node.class.thermostat.json#"
+        },
+        "schedule": {
+          "reportedValue": "{\"sunday\":[{\"time\":\"00:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.5},{\"time\":\"01:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":19.0},{\"time\":\"04:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.5},{\"time\":\"06:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.0},{\"time\":\"16:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0},{\"time\":\"22:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0}],\"monday\":[{\"time\":\"00:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.5},{\"time\":\"01:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.5},{\"time\":\"04:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.5},{\"time\":\"06:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.0},{\"time\":\"16:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0},{\"time\":\"22:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0}],\"tuesday\":[{\"time\":\"00:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.5},{\"time\":\"01:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":19.0},{\"time\":\"04:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":19.0},{\"time\":\"06:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.0},{\"time\":\"16:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0},{\"time\":\"22:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0}],\"wednesday\":[{\"time\":\"00:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.5},{\"time\":\"01:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":19.0},{\"time\":\"04:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":19.0},{\"time\":\"06:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.0},{\"time\":\"16:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0},{\"time\":\"22:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0}],\"thursday\":[{\"time\":\"00:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":19.0},{\"time\":\"01:30\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":23.0},{\"time\":\"02:30\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.5},{\"time\":\"06:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.0},{\"time\":\"16:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0},{\"time\":\"22:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0}],\"friday\":[{\"time\":\"00:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.5},{\"time\":\"01:30\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":23.0},{\"time\":\"02:30\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.5},{\"time\":\"06:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.0},{\"time\":\"16:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0},{\"time\":\"22:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0}],\"saturday\":[{\"time\":\"00:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":19.0},{\"time\":\"01:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":19.0},{\"time\":\"04:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.5},{\"time\":\"06:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.0},{\"time\":\"16:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0},{\"time\":\"22:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0}]}",
+          "displayValue": "{\"sunday\":[{\"time\":\"00:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.5},{\"time\":\"01:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":19.0},{\"time\":\"04:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.5},{\"time\":\"06:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.0},{\"time\":\"16:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0},{\"time\":\"22:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0}],\"monday\":[{\"time\":\"00:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.5},{\"time\":\"01:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.5},{\"time\":\"04:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.5},{\"time\":\"06:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.0},{\"time\":\"16:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0},{\"time\":\"22:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0}],\"tuesday\":[{\"time\":\"00:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.5},{\"time\":\"01:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":19.0},{\"time\":\"04:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":19.0},{\"time\":\"06:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.0},{\"time\":\"16:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0},{\"time\":\"22:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0}],\"wednesday\":[{\"time\":\"00:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.5},{\"time\":\"01:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":19.0},{\"time\":\"04:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":19.0},{\"time\":\"06:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.0},{\"time\":\"16:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0},{\"time\":\"22:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0}],\"thursday\":[{\"time\":\"00:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":19.0},{\"time\":\"01:30\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":23.0},{\"time\":\"02:30\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.5},{\"time\":\"06:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.0},{\"time\":\"16:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0},{\"time\":\"22:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0}],\"friday\":[{\"time\":\"00:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.5},{\"time\":\"01:30\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":23.0},{\"time\":\"02:30\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.5},{\"time\":\"06:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.0},{\"time\":\"16:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0},{\"time\":\"22:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0}],\"saturday\":[{\"time\":\"00:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":19.0},{\"time\":\"01:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":19.0},{\"time\":\"04:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.5},{\"time\":\"06:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":18.0},{\"time\":\"16:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0},{\"time\":\"22:00\",\"heatCoolMode\":\"HEAT\",\"targetHeatTemperature\":20.0}]}",
+          "reportReceivedTime": 1570662134241,
+          "reportChangedTime": 1570662134015
+        },
+        "stateHeatingRelay": {
+          "reportedValue": "OFF",
+          "displayValue": "OFF",
+          "reportReceivedTime": 1571658186394,
+          "reportChangedTime": 1571658186256
+        },
+        "supportsHotWater": {
+          "reportedValue": false,
+          "displayValue": false,
+          "reportReceivedTime": 1569932335590,
+          "reportChangedTime": 1569932335333
+        },
+        "delayCompensatedTemperature": {
+          "reportedValue": 0,
+          "displayValue": 0,
+          "reportReceivedTime": 1569932393526,
+          "reportChangedTime": 1569932393413
+        },
+        "optimumStartMinimumTemperatureChange": {
+          "reportedValue": 0.5,
+          "displayValue": 0.5,
+          "reportReceivedTime": 1569932339927,
+          "reportChangedTime": 1569932339358
+        },
+        "optimumStartMaximumAdvanceTime": {
+          "reportedValue": 60,
+          "displayValue": 60,
+          "reportReceivedTime": 1569932339791,
+          "reportChangedTime": 1569932339257
+        },
+        "frostProtectTemperature": {
+          "reportedValue": 7,
+          "displayValue": 7,
+          "reportReceivedTime": 1569932338075,
+          "reportChangedTime": 1569932337962
+        },
+        "scheduleLockDuration": {
+          "reportedValue": 0,
+          "displayValue": 0,
+          "reportReceivedTime": 1571658186572,
+          "reportChangedTime": 1571658186355
+        },
+        "optimumStartAdvanceTimeOffset": {
+          "reportedValue": 15,
+          "displayValue": 15,
+          "reportReceivedTime": 1569932340066,
+          "reportChangedTime": 1569932339470
+        },
+        "minimumOffCycles": {
+          "reportedValue": 3,
+          "displayValue": 3,
+          "reportReceivedTime": 1569932339674,
+          "reportChangedTime": 1569932339156
+        },
+        "failureStatus": {
+          "reportedValue": "NORMAL",
+          "displayValue": "NORMAL",
+          "reportReceivedTime": 1569932330972,
+          "reportChangedTime": 1569932330675
+        }
+      }
+    },
+    {
+      "id": "90113b51-3561-4369-b98b-786fa60986c7",
+      "href": "https://api.prod.bgchprod.info/omnia/nodes/90113b51-3561-4369-b98b-786fa60986c7",
+      "name": "Thermostat 1",
+      "parentNodeId": "e176d824-89c1-4b92-a5b6-d3a48be2d3d8",
+      "createdOn": 1499790082117,
+      "userId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "ownerId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "relationships": {
+        "boundNodes": [
+          {
+            "type": "node",
+            "id": "06930af0-33ea-49d4-aaf5-52dbf9bdcb44",
+            "data": null
+          }
+        ]
+      },
+      "homeId": "0f586eaf-ce2b-4550-addc-d76e42627b66",
+      "upgradeStatus": "COMPLETE",
+      "protocol": "ZIGBEE",
+      "attributes": {
+        "nativeIdentifier": {
+          "reportedValue": "6D47",
+          "displayValue": "6D47",
+          "reportReceivedTime": 1569932235544,
+          "reportChangedTime": 1569932201370
+        },
+        "LQI": {
+          "reportedValue": 100,
+          "displayValue": 100,
+          "reportReceivedTime": 1571657628991,
+          "reportChangedTime": 1571657628940
+        },
+        "batteryVoltage": {
+          "reportedValue": 5.8,
+          "displayValue": 5.8,
+          "reportReceivedTime": 1570209178850,
+          "reportChangedTime": 1570209178818
+        },
+        "nodeType": {
+          "reportedValue": "http://alertme.com/schema/json/node.class.thermostatui.json#",
+          "displayValue": "http://alertme.com/schema/json/node.class.thermostatui.json#"
+        },
+        "powerSupply": {
+          "reportedValue": "BATTERY",
+          "displayValue": "BATTERY",
+          "reportReceivedTime": 1569932235545,
+          "reportChangedTime": 1569932201375
+        },
+        "manufacturer": {
+          "reportedValue": "Computime",
+          "displayValue": "Computime",
+          "reportReceivedTime": 1569932235543,
+          "reportChangedTime": 1569932201379
+        },
+        "RSSI": {
+          "reportedValue": -63,
+          "displayValue": -63,
+          "reportReceivedTime": 1571659309118,
+          "reportChangedTime": 1571659309071
+        },
+        "zigBeeBindingTable": {
+          "reportedValue": "[{\"sourceAddress\":\"::21e:5e09:222:4cdc\",\"sourceEndpoint\":9,\"cluster\":64768,\"destinationAddress\":\"::21e:5e09:221:c89f\",\"destinationEndpoint\":5},{\"sourceAddress\":\"::21e:5e09:222:4cdc\",\"sourceEndpoint\":9,\"cluster\":1026,\"destinationAddress\":\"::21e:5e09:221:c89f\",\"destinationEndpoint\":5},{\"sourceAddress\":\"::21e:5e09:222:4cdc\",\"sourceEndpoint\":9,\"cluster\":513,\"destinationAddress\":\"::21e:5e09:221:c89f\",\"destinationEndpoint\":5},{\"sourceAddress\":\"::21e:5e09:222:4cdc\",\"sourceEndpoint\":9,\"cluster\":513,\"destinationAddress\":\"::21e:5e09:221:c89f\",\"destinationEndpoint\":6},{\"sourceAddress\":\"::21e:5e09:222:4cdc\",\"sourceEndpoint\":9,\"cluster\":10,\"destinationAddress\":\"::21e:5e09:221:c89f\",\"destinationEndpoint\":5},{\"sourceAddress\":\"::21e:5e09:222:4cdc\",\"sourceEndpoint\":9,\"cluster\":0,\"destinationAddress\":\"::21e:5e09:221:c89f\",\"destinationEndpoint\":5},{\"sourceAddress\":\"::21e:5e09:222:4cdc\",\"sourceEndpoint\":9,\"cluster\":32,\"destinationAddress\":\"::21c:2bff:fe0a:e4e0\",\"destinationEndpoint\":1},{\"sourceAddress\":\"::21e:5e09:222:4cdc\",\"sourceEndpoint\":9,\"cluster\":1,\"destinationAddress\":\"::21c:2bff:fe0a:e4e0\",\"destinationEndpoint\":1},{\"sourceAddress\":\"::21e:5e09:222:4cdc\",\"sourceEndpoint\":9,\"cluster\":64768,\"destinationAddress\":\"::21c:2bff:fe0a:e4e0\",\"destinationEndpoint\":1}]",
+          "displayValue": "[{\"sourceAddress\":\"::21e:5e09:222:4cdc\",\"sourceEndpoint\":9,\"cluster\":64768,\"destinationAddress\":\"::21e:5e09:221:c89f\",\"destinationEndpoint\":5},{\"sourceAddress\":\"::21e:5e09:222:4cdc\",\"sourceEndpoint\":9,\"cluster\":1026,\"destinationAddress\":\"::21e:5e09:221:c89f\",\"destinationEndpoint\":5},{\"sourceAddress\":\"::21e:5e09:222:4cdc\",\"sourceEndpoint\":9,\"cluster\":513,\"destinationAddress\":\"::21e:5e09:221:c89f\",\"destinationEndpoint\":5},{\"sourceAddress\":\"::21e:5e09:222:4cdc\",\"sourceEndpoint\":9,\"cluster\":513,\"destinationAddress\":\"::21e:5e09:221:c89f\",\"destinationEndpoint\":6},{\"sourceAddress\":\"::21e:5e09:222:4cdc\",\"sourceEndpoint\":9,\"cluster\":10,\"destinationAddress\":\"::21e:5e09:221:c89f\",\"destinationEndpoint\":5},{\"sourceAddress\":\"::21e:5e09:222:4cdc\",\"sourceEndpoint\":9,\"cluster\":0,\"destinationAddress\":\"::21e:5e09:221:c89f\",\"destinationEndpoint\":5},{\"sourceAddress\":\"::21e:5e09:222:4cdc\",\"sourceEndpoint\":9,\"cluster\":32,\"destinationAddress\":\"::21c:2bff:fe0a:e4e0\",\"destinationEndpoint\":1},{\"sourceAddress\":\"::21e:5e09:222:4cdc\",\"sourceEndpoint\":9,\"cluster\":1,\"destinationAddress\":\"::21c:2bff:fe0a:e4e0\",\"destinationEndpoint\":1},{\"sourceAddress\":\"::21e:5e09:222:4cdc\",\"sourceEndpoint\":9,\"cluster\":64768,\"destinationAddress\":\"::21c:2bff:fe0a:e4e0\",\"destinationEndpoint\":1}]",
+          "reportReceivedTime": 1569932369763,
+          "reportChangedTime": 1569932369524
+        },
+        "macAddress": {
+          "reportedValue": "001E5E0902224CDC",
+          "displayValue": "001E5E0902224CDC",
+          "reportReceivedTime": 1569932364154,
+          "reportChangedTime": 1569932364147
+        },
+        "batteryState": {
+          "reportedValue": "NORMAL",
+          "displayValue": "NORMAL",
+          "reportReceivedTime": 1569932369233,
+          "reportChangedTime": 1569932369180
+        },
+        "model": {
+          "reportedValue": "SLT3b",
+          "displayValue": "SLT3b",
+          "reportReceivedTime": 1569932235544,
+          "reportChangedTime": 1569932201374
+        },
+        "presence": {
+          "reportedValue": "PRESENT",
+          "displayValue": "PRESENT",
+          "reportReceivedTime": 1569932364817,
+          "reportChangedTime": 1569932364769
+        },
+        "softwareVersion": {
+          "reportedValue": "05060212",
+          "displayValue": "05060212",
+          "reportReceivedTime": 1569932235545,
+          "reportChangedTime": 1569932201377
+        },
+        "batteryAlertEnabled": {
+          "reportedValue": true,
+          "displayValue": true,
+          "reportReceivedTime": 1569932365335,
+          "reportChangedTime": 1569932365202
+        },
+        "batteryLevel": {
+          "reportedValue": 80,
+          "displayValue": 80,
+          "reportReceivedTime": 1570209178885,
+          "reportChangedTime": 1570209178820
+        }
+      }
+    },
+    {
+      "id": "cefedec6-8c7a-464d-af2b-4f782554d0b7",
+      "href": "https://api.prod.bgchprod.info/omnia/nodes/cefedec6-8c7a-464d-af2b-4f782554d0b7",
+      "name": "http://alertme.com/schema/json/node.class.synthetic.daylight.json#",
+      "parentNodeId": "e176d824-89c1-4b92-a5b6-d3a48be2d3d8",
+      "createdOn": 1518985079793,
+      "userId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "ownerId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "homeId": "0f586eaf-ce2b-4550-addc-d76e42627b66",
+      "protocol": "SYNTHETIC",
+      "attributes": {
+        "protocol": {
+          "reportedValue": "SYNTHETIC",
+          "displayValue": "SYNTHETIC",
+          "reportReceivedTime": 1569932234483,
+          "reportChangedTime": 1569932203788
+        },
+        "syntheticDeviceConfiguration": {
+          "reportedValue": "{\"sunriseOffset\":0,\"sunriseDuration\":0,\"sunsetOffset\":0,\"sunsetDuration\":0}",
+          "displayValue": "{\"sunriseOffset\":0,\"sunriseDuration\":0,\"sunsetOffset\":0,\"sunsetDuration\":0}",
+          "reportReceivedTime": 1569932234529,
+          "reportChangedTime": 1569932203790
+        },
+        "nextDark": {
+          "reportedValue": "2019-10-21T16:57:01.000+0000",
+          "displayValue": "2019-10-21T16:57:01.000+0000",
+          "reportReceivedTime": 1571590741175,
+          "reportChangedTime": 1571590741139
+        },
+        "nextSunrise": {
+          "reportedValue": "2019-10-22T06:36:00.000+0000",
+          "displayValue": "2019-10-22T06:36:00.000+0000",
+          "reportReceivedTime": 1571639700196,
+          "reportChangedTime": 1571639700190
+        },
+        "daylightState": {
+          "reportedValue": "LIGHT",
+          "displayValue": "LIGHT",
+          "reportReceivedTime": 1571639701125,
+          "reportChangedTime": 1571639701118
+        },
+        "consumers": {
+          "reportedValue": "[]",
+          "targetValue": "[]",
+          "displayValue": "[]"
+        },
+        "presence": {
+          "reportedValue": "PRESENT",
+          "displayValue": "PRESENT",
+          "reportReceivedTime": 1569932234531,
+          "reportChangedTime": 1569932203794
+        },
+        "nodeType": {
+          "reportedValue": "http://alertme.com/schema/json/node.class.synthetic.daylight.json#",
+          "displayValue": "http://alertme.com/schema/json/node.class.synthetic.daylight.json#"
+        },
+        "nextSunset": {
+          "reportedValue": "2019-10-21T16:57:00.000+0000",
+          "displayValue": "2019-10-21T16:57:00.000+0000",
+          "reportReceivedTime": 1571590740267,
+          "reportChangedTime": 1571590740225
+        },
+        "producers": {
+          "reportedValue": "[]",
+          "targetValue": "[]",
+          "displayValue": "[]"
+        },
+        "nextLight": {
+          "reportedValue": "2019-10-22T06:36:01.000+0000",
+          "displayValue": "2019-10-22T06:36:01.000+0000",
+          "reportReceivedTime": 1571639701140,
+          "reportChangedTime": 1571639701119
+        }
+      }
+    },
+    {
+      "id": "a5a4886b-e2bd-428f-b13f-7c93aea3f9a7",
+      "href": "https://api.prod.bgchprod.info/omnia/nodes/a5a4886b-e2bd-428f-b13f-7c93aea3f9a7",
+      "name": "Bathroom Window",
+      "parentNodeId": "e176d824-89c1-4b92-a5b6-d3a48be2d3d8",
+      "createdOn": 1525448307940,
+      "userId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "ownerId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "homeId": "0f586eaf-ce2b-4550-addc-d76e42627b66",
+      "upgradeStatus": "COMPLETE",
+      "protocol": "ZIGBEE",
+      "attributes": {
+        "nativeIdentifier": {
+          "reportedValue": "32FB",
+          "displayValue": "32FB",
+          "reportReceivedTime": 1569932235523,
+          "reportChangedTime": 1569932200795
+        },
+        "LQI": {
+          "reportedValue": 100,
+          "displayValue": 100,
+          "reportReceivedTime": 1571651722470,
+          "reportChangedTime": 1571651722399
+        },
+        "batteryVoltage": {
+          "reportedValue": 3,
+          "displayValue": 3,
+          "reportReceivedTime": 1569932583645,
+          "reportChangedTime": 1569932583599
+        },
+        "nodeType": {
+          "reportedValue": "http://alertme.com/schema/json/node.class.contact.sensor.json#",
+          "displayValue": "http://alertme.com/schema/json/node.class.contact.sensor.json#"
+        },
+        "powerSupply": {
+          "reportedValue": "BATTERY",
+          "displayValue": "BATTERY",
+          "reportReceivedTime": 1569932235525,
+          "reportChangedTime": 1569932200797
+        },
+        "manufacturer": {
+          "reportedValue": "AlertMe.com",
+          "displayValue": "AlertMe.com",
+          "reportReceivedTime": 1569932235524,
+          "reportChangedTime": 1569932200800
+        },
+        "RSSI": {
+          "reportedValue": -64,
+          "displayValue": -64,
+          "reportReceivedTime": 1571658322991,
+          "reportChangedTime": 1571658322965
+        },
+        "macAddress": {
+          "reportedValue": "000D6F0005A542CC",
+          "displayValue": "000D6F0005A542CC",
+          "reportReceivedTime": 1569932581988,
+          "reportChangedTime": 1569932581980
+        },
+        "batteryState": {
+          "reportedValue": "FULL",
+          "displayValue": "FULL",
+          "reportReceivedTime": 1569932583663,
+          "reportChangedTime": 1569932583598
+        },
+        "temperature": {
+          "reportedValue": 15.5,
+          "displayValue": 15.5,
+          "reportReceivedTime": 1571658772041,
+          "reportChangedTime": 1571658772024
+        },
+        "model": {
+          "reportedValue": "WDS00140002",
+          "displayValue": "WDS00140002",
+          "reportReceivedTime": 1569932235523,
+          "reportChangedTime": 1569932200796
+        },
+        "state": {
+          "reportedValue": "OPEN",
+          "displayValue": "OPEN",
+          "reportReceivedTime": 1571601044061,
+          "reportChangedTime": 1571601044034
+        },
+        "presence": {
+          "reportedValue": "PRESENT",
+          "displayValue": "PRESENT",
+          "reportReceivedTime": 1569932583392,
+          "reportChangedTime": 1569932583373
+        },
+        "softwareVersion": {
+          "reportedValue": "31005010",
+          "displayValue": "31005010",
+          "reportReceivedTime": 1569932235524,
+          "reportChangedTime": 1569932200798
+        },
+        "batteryAlertEnabled": {
+          "reportedValue": true,
+          "displayValue": true,
+          "reportReceivedTime": 1569932583674,
+          "reportChangedTime": 1569932583610
+        },
+        "batteryLevel": {
+          "reportedValue": 100,
+          "displayValue": 100,
+          "reportReceivedTime": 1569932583630,
+          "reportChangedTime": 1569932583608
+        }
+      }
+    },
+    {
+      "id": "db66bb21-728f-435d-a4ee-dab33a863fee",
+      "href": "https://api.prod.bgchprod.info/omnia/nodes/db66bb21-728f-435d-a4ee-dab33a863fee",
+      "name": "Bathroom",
+      "parentNodeId": "e176d824-89c1-4b92-a5b6-d3a48be2d3d8",
+      "lastSeen": 1570376844045,
+      "createdOn": 1525448339791,
+      "userId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "ownerId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "homeId": "0f586eaf-ce2b-4550-addc-d76e42627b66",
+      "upgradeStatus": "COMPLETE",
+      "protocol": "ZIGBEE",
+      "attributes": {
+        "nativeIdentifier": {
+          "reportedValue": "1216",
+          "displayValue": "1216",
+          "reportReceivedTime": 1569932235441,
+          "reportChangedTime": 1569932201123
+        },
+        "LQI": {
+          "reportedValue": 100,
+          "displayValue": 100,
+          "reportReceivedTime": 1571658424626,
+          "reportChangedTime": 1571658424542
+        },
+        "batteryVoltage": {
+          "reportedValue": 2.9,
+          "displayValue": 2.9,
+          "reportReceivedTime": 1569932369363,
+          "reportChangedTime": 1569932369332
+        },
+        "motionStarted": {
+          "reportedValue": "2019-10-21T11:54:15.540+0000",
+          "displayValue": "2019-10-21T11:54:15.540+0000",
+          "reportReceivedTime": 1571658855750,
+          "reportChangedTime": 1571658855635
+        },
+        "nodeType": {
+          "reportedValue": "http://alertme.com/schema/json/node.class.motion.sensor.json#",
+          "displayValue": "http://alertme.com/schema/json/node.class.motion.sensor.json#"
+        },
+        "powerSupply": {
+          "reportedValue": "BATTERY",
+          "displayValue": "BATTERY",
+          "reportReceivedTime": 1569932235439,
+          "reportChangedTime": 1569932201128
+        },
+        "manufacturer": {
+          "reportedValue": "AlertMe.com",
+          "displayValue": "AlertMe.com",
+          "reportReceivedTime": 1569932235441,
+          "reportChangedTime": 1569932201130
+        },
+        "RSSI": {
+          "reportedValue": -75,
+          "displayValue": -75,
+          "reportReceivedTime": 1571658424637,
+          "reportChangedTime": 1571658424541
+        },
+        "macAddress": {
+          "reportedValue": "000D6F0005A55E39",
+          "displayValue": "000D6F0005A55E39",
+          "reportReceivedTime": 1569932366796,
+          "reportChangedTime": 1569932366773
+        },
+        "lastSeen": {
+          "reportedValue": "2019-10-06T15:47:24.045+0000",
+          "displayValue": "2019-10-06T15:47:24.045+0000",
+          "reportReceivedTime": 1570377504266,
+          "reportChangedTime": 1570377504171
+        },
+        "batteryState": {
+          "reportedValue": "NORMAL",
+          "displayValue": "NORMAL",
+          "reportReceivedTime": 1569932369343,
+          "reportChangedTime": 1569932369323
+        },
+        "temperature": {
+          "reportedValue": 18.75,
+          "displayValue": 18.75,
+          "reportReceivedTime": 1571657699970,
+          "reportChangedTime": 1571657699952
+        },
+        "motionEnded": {
+          "reportedValue": "2019-10-21T11:54:15.540+0000",
+          "displayValue": "2019-10-21T11:54:15.540+0000",
+          "reportReceivedTime": 1571659155734,
+          "reportChangedTime": 1571659155723
+        },
+        "model": {
+          "reportedValue": "PIR00140005",
+          "displayValue": "PIR00140005",
+          "reportReceivedTime": 1569932235442,
+          "reportChangedTime": 1569932201127
+        },
+        "inMotion": {
+          "reportedValue": false,
+          "displayValue": false,
+          "reportReceivedTime": 1571659155746,
+          "reportChangedTime": 1571659155725
+        },
+        "presence": {
+          "reportedValue": "PRESENT",
+          "displayValue": "PRESENT",
+          "reportReceivedTime": 1570377725132,
+          "reportChangedTime": 1570377725085
+        },
+        "softwareVersion": {
+          "reportedValue": "31005010",
+          "displayValue": "31005010",
+          "reportReceivedTime": 1569932235439,
+          "reportChangedTime": 1569932201129
+        },
+        "batteryAlertEnabled": {
+          "reportedValue": true,
+          "displayValue": true,
+          "reportReceivedTime": 1569932368189,
+          "reportChangedTime": 1569932368143
+        },
+        "batteryLevel": {
+          "reportedValue": 100,
+          "displayValue": 100,
+          "reportReceivedTime": 1569932235440,
+          "reportChangedTime": 1569932201131
+        }
+      }
+    },
+    {
+      "id": "18410333-c6a7-4727-9d8e-77bd87f669d8",
+      "href": "https://api.prod.bgchprod.info/omnia/nodes/18410333-c6a7-4727-9d8e-77bd87f669d8",
+      "name": "Harrisons Room",
+      "parentNodeId": "e176d824-89c1-4b92-a5b6-d3a48be2d3d8",
+      "lastSeen": 1571098947394,
+      "createdOn": 1525449317052,
+      "userId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "ownerId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "homeId": "0f586eaf-ce2b-4550-addc-d76e42627b66",
+      "protocol": "ZIGBEE",
+      "attributes": {
+        "nativeIdentifier": {
+          "reportedValue": "5F3F",
+          "displayValue": "5F3F",
+          "reportReceivedTime": 1569932707559,
+          "reportChangedTime": 1569932707533
+        },
+        "LQI": {
+          "reportedValue": 100,
+          "displayValue": 100,
+          "reportReceivedTime": 1571637721375,
+          "reportChangedTime": 1571637721293
+        },
+        "batteryVoltage": {
+          "reportedValue": 2.8,
+          "displayValue": 2.8,
+          "reportReceivedTime": 1571301302536,
+          "reportChangedTime": 1571301302519
+        },
+        "motionStarted": {
+          "reportedValue": "2019-10-21T11:30:30.336+0000",
+          "displayValue": "2019-10-21T11:30:30.336+0000",
+          "reportReceivedTime": 1571657430496,
+          "reportChangedTime": 1571657430439
+        },
+        "nodeType": {
+          "reportedValue": "http://alertme.com/schema/json/node.class.motion.sensor.json#",
+          "displayValue": "http://alertme.com/schema/json/node.class.motion.sensor.json#"
+        },
+        "powerSupply": {
+          "reportedValue": "BATTERY",
+          "displayValue": "BATTERY",
+          "reportReceivedTime": 1569932708097,
+          "reportChangedTime": 1569932708082
+        },
+        "manufacturer": {
+          "reportedValue": "AlertMe.com",
+          "displayValue": "AlertMe.com",
+          "reportReceivedTime": 1569932707291,
+          "reportChangedTime": 1569932707276
+        },
+        "RSSI": {
+          "reportedValue": -60,
+          "displayValue": -60,
+          "reportReceivedTime": 1571659203420,
+          "reportChangedTime": 1571659203381
+        },
+        "macAddress": {
+          "reportedValue": "000D6F0005A54895",
+          "displayValue": "000D6F0005A54895",
+          "reportReceivedTime": 1569932707517,
+          "reportChangedTime": 1569932707472
+        },
+        "lastSeen": {
+          "reportedValue": "2019-10-15T00:22:27.394+0000",
+          "displayValue": "2019-10-15T00:22:27.394+0000",
+          "reportReceivedTime": 1571099607582,
+          "reportChangedTime": 1571099607449
+        },
+        "batteryState": {
+          "reportedValue": "NORMAL",
+          "displayValue": "NORMAL",
+          "reportReceivedTime": 1569932709046,
+          "reportChangedTime": 1569932708982
+        },
+        "temperature": {
+          "reportedValue": 19.25,
+          "displayValue": 19.25,
+          "reportReceivedTime": 1571658397856,
+          "reportChangedTime": 1571658397835
+        },
+        "motionEnded": {
+          "reportedValue": "2019-10-21T11:30:30.336+0000",
+          "displayValue": "2019-10-21T11:30:30.336+0000",
+          "reportReceivedTime": 1571657730549,
+          "reportChangedTime": 1571657730521
+        },
+        "model": {
+          "reportedValue": "PIR00140005",
+          "displayValue": "PIR00140005",
+          "reportReceivedTime": 1569932707421,
+          "reportChangedTime": 1569932707367
+        },
+        "inMotion": {
+          "reportedValue": false,
+          "displayValue": false,
+          "reportReceivedTime": 1571657730543,
+          "reportChangedTime": 1571657730522
+        },
+        "presence": {
+          "reportedValue": "PRESENT",
+          "displayValue": "PRESENT",
+          "reportReceivedTime": 1571101323772,
+          "reportChangedTime": 1571101323717
+        },
+        "softwareVersion": {
+          "reportedValue": "31005010",
+          "displayValue": "31005010",
+          "reportReceivedTime": 1569932707485,
+          "reportChangedTime": 1569932707429
+        },
+        "batteryAlertEnabled": {
+          "reportedValue": true,
+          "displayValue": true,
+          "reportReceivedTime": 1569932708501,
+          "reportChangedTime": 1569932708473
+        },
+        "batteryLevel": {
+          "reportedValue": 80,
+          "displayValue": 80,
+          "reportReceivedTime": 1571301302548,
+          "reportChangedTime": 1571301302520
+        }
+      }
+    },
+    {
+      "id": "246f531a-0268-44dd-b64d-a6dba7eb06c9",
+      "href": "https://api.prod.bgchprod.info/omnia/nodes/246f531a-0268-44dd-b64d-a6dba7eb06c9",
+      "name": "When back door closes",
+      "parentNodeId": "e176d824-89c1-4b92-a5b6-d3a48be2d3d8",
+      "createdOn": 1530520565824,
+      "userId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "ownerId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "homeId": "0f586eaf-ce2b-4550-addc-d76e42627b66",
+      "protocol": "SYNTHETIC",
+      "attributes": {
+        "protocol": {
+          "reportedValue": "SYNTHETIC",
+          "displayValue": "SYNTHETIC",
+          "reportReceivedTime": 1569932234873,
+          "reportChangedTime": 1569932201574
+        },
+        "syntheticDeviceConfiguration": {
+          "reportedValue": "{\"currentlyEntitled\":true}",
+          "displayValue": "{\"currentlyEntitled\":true}",
+          "reportReceivedTime": 1569932234911,
+          "reportChangedTime": 1569932201580
+        },
+        "consumers": {
+          "reportedValue": "[\"fd035345-dced-4d0b-b92d-10591d21393e\"]",
+          "targetValue": "[\"fd035345-dced-4d0b-b92d-10591d21393e\"]",
+          "displayValue": "[\"fd035345-dced-4d0b-b92d-10591d21393e\"]",
+          "reportReceivedTime": 1569932234912,
+          "reportChangedTime": 1569932201589
+        },
+        "presence": {
+          "reportedValue": "PRESENT",
+          "displayValue": "PRESENT",
+          "reportReceivedTime": 1569932234831,
+          "reportChangedTime": 1569932201590
+        },
+        "nodeType": {
+          "reportedValue": "http://alertme.com/schema/json/node.class.synthetic.rule.json#",
+          "displayValue": "http://alertme.com/schema/json/node.class.synthetic.rule.json#"
+        },
+        "producers": {
+          "reportedValue": "[{\"nodeId\":\"fd035345-dced-4d0b-b92d-10591d21393e\"}]",
+          "targetValue": "[{\"nodeId\":\"fd035345-dced-4d0b-b92d-10591d21393e\"}]",
+          "displayValue": "[{\"nodeId\":\"fd035345-dced-4d0b-b92d-10591d21393e\"}]",
+          "reportReceivedTime": 1569932234867,
+          "reportChangedTime": 1569932201591
+        }
+      }
+    },
+    {
+      "id": "d2da8910-83b9-482c-a3b9-bf1a1e1c06ec",
+      "href": "https://api.prod.bgchprod.info/omnia/nodes/d2da8910-83b9-482c-a3b9-bf1a1e1c06ec",
+      "name": "Device 1",
+      "parentNodeId": "e176d824-89c1-4b92-a5b6-d3a48be2d3d8",
+      "createdOn": 1558513385705,
+      "userId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "ownerId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "homeId": "0f586eaf-ce2b-4550-addc-d76e42627b66",
+      "protocol": "SYNTHETIC",
+      "attributes": {
+        "protocol": {
+          "reportedValue": "SYNTHETIC",
+          "displayValue": "SYNTHETIC",
+          "reportReceivedTime": 1569932234256,
+          "reportChangedTime": 1569932200715
+        },
+        "consumers": {
+          "reportedValue": "[]",
+          "targetValue": "[]",
+          "displayValue": "[]"
+        },
+        "presence": {
+          "reportedValue": "PRESENT",
+          "displayValue": "PRESENT",
+          "reportReceivedTime": 1569932234250,
+          "reportChangedTime": 1569932200716
+        },
+        "nodeType": {
+          "reportedValue": "http://alertme.com/schema/json/node.class.synthetic.home.state.json#",
+          "displayValue": "http://alertme.com/schema/json/node.class.synthetic.home.state.json#"
+        },
+        "producers": {
+          "reportedValue": "[]",
+          "targetValue": "[]",
+          "displayValue": "[]"
+        }
+      }
+    },
+    {
+      "id": "a0b6507d-2429-4e9d-9a63-e383d7deb5cb",
+      "href": "https://api.prod.bgchprod.info/omnia/nodes/a0b6507d-2429-4e9d-9a63-e383d7deb5cb",
+      "name": "Boost heating",
+      "parentNodeId": "e176d824-89c1-4b92-a5b6-d3a48be2d3d8",
+      "createdOn": 1570662213408,
+      "userId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "ownerId": "80a941e1-6f90-47ff-a751-d21e9d77ca0a",
+      "homeId": "0f586eaf-ce2b-4550-addc-d76e42627b66",
+      "protocol": "SYNTHETIC",
+      "attributes": {
+        "protocol": {
+          "reportedValue": "SYNTHETIC",
+          "displayValue": "SYNTHETIC",
+          "reportReceivedTime": 1570662210102,
+          "reportChangedTime": 1570662210076
+        },
+        "syntheticDeviceConfiguration": {
+          "reportedValue": "{\"currentlyEntitled\":true}",
+          "displayValue": "{\"currentlyEntitled\":true}",
+          "reportReceivedTime": 1570662211673,
+          "reportChangedTime": 1570662211625
+        },
+        "consumers": {
+          "reportedValue": "[\"c93a90f0-a487-4783-bca8-26a77e7c52c6\"]",
+          "targetValue": "[\"c93a90f0-a487-4783-bca8-26a77e7c52c6\"]",
+          "displayValue": "[\"c93a90f0-a487-4783-bca8-26a77e7c52c6\"]",
+          "reportReceivedTime": 1570662211391,
+          "reportChangedTime": 1570662211034
+        },
+        "presence": {
+          "reportedValue": "PRESENT",
+          "displayValue": "PRESENT",
+          "reportReceivedTime": 1570662210118,
+          "reportChangedTime": 1570662210078
+        },
+        "nodeType": {
+          "reportedValue": "http://alertme.com/schema/json/node.class.synthetic.rule.json#",
+          "displayValue": "http://alertme.com/schema/json/node.class.synthetic.rule.json#"
+        },
+        "producers": {
+          "reportedValue": "[{\"nodeId\":\"c93a90f0-a487-4783-bca8-26a77e7c52c6\"}]",
+          "targetValue": "[{\"nodeId\":\"c93a90f0-a487-4783-bca8-26a77e7c52c6\"}]",
+          "displayValue": "[{\"nodeId\":\"c93a90f0-a487-4783-bca8-26a77e7c52c6\"}]",
+          "reportReceivedTime": 1570662211395,
+          "reportChangedTime": 1570662211053
+        }
+      }
+    }
+  ]
+}
